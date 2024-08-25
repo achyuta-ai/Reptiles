@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(253, 254, 253);
+    opacity: 1;
+  }
+
+li {
+display: inline;
+}
+a:link, a:visited {
+background-color: #75c203;
+color: white;
+padding: 14px 25px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+}
+
+a:hover, a:active {
+background-color: rgb(221, 32, 32);
+}
